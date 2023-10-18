@@ -3,7 +3,7 @@ import dotenv from 'dotenv';
 
 // Initialize dotenv
 dotenv.config();
-// Initialize express
+// Initialize express el pepe el pepe
 const app = express();
 
 app.get('/', (req, res) => res.send('Hello World!'));
